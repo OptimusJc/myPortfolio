@@ -1,0 +1,32 @@
+.hero_section {
+    padding-top: 2.5rem;
+    span.my_name {
+        letter-spacing: 0.32px;
+        line-height: 25px;
+        color: $secondary-color;
+        font-family: "biorhyme";
+        padding-bottom: 10px;
+    }
+
+    .name {
+        letter-spacing: 0.48px;
+        font-size: 1.5rem;
+        text-transform: capitalize;
+        line-height: 36px;
+    }
+    .white {
+        color: #ffffff;
+    }
+
+    .heading {
+        font-size: 1.75rem;
+        line-height: 56px;
+        text-transform: capitalize;
+    }
+
+    .sub_head {
+        font-size: 1rem;
+        letter-spacing: 0.32px;
+        line-height: 27px;
+    }
+}

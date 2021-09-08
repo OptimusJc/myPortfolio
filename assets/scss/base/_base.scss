@@ -1,0 +1,30 @@
+$primary-color: #0c1b31;
+$primary-color-shade: #152741;
+$secondary-color: #68f2d6;
+$font-color: #7f8aa6;
+
+*,
+*::before,
+*::after {
+    font-family: "Space Mono", monospace;
+    box-sizing: border-box;
+    color: $font-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "BioRhyme", serif;
+    color: #ffffff;
+}
+
+a {
+    font-family: "BioRhyme", serif;
+}
+
+body {
+    font-size: 16px;
+}

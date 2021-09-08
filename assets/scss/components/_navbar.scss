@@ -1,0 +1,19 @@
+.bg-dark {
+    background-color: $primary-color !important;
+}
+
+.navbar-dark {
+    color: $font-color !important;
+}
+
+.navbar-nav {
+    .nav-link {
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+
+        span {
+            font-family: "BioRhyme";
+            color: $secondary-color;
+        }
+    }
+}
