@@ -1,0 +1,4 @@
+@mixin negativeMarg($marg) {
+    margin-left: -$marg;
+    margin-right: -$marg;
+}

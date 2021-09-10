@@ -1,10 +1,15 @@
+// BASE STYLES
 @import "./base/normalize";
 @import "./base/base";
+@import "./base/mixins";
 
+// COMPONENTS STYLES
 @import "./components/navbar";
 @import "./components/brand";
 @import "./components/hero";
 @import "./components/button";
+@import "./components/media";
+@import "./components/h2";
 
 // THEME STYLES
 @import "./theme/theme";
